@@ -1,0 +1,6 @@
+php artisan jetstream: install livewire : Para instalar la herramienta 
+
+php artisan make:livewire CourseList : Creacion de componente
+
+npm run watch Para que cargue ek livewire
+
