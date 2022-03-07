@@ -15,7 +15,7 @@
         <div class="bg-red-700 py-1">
             <nav class="bg-red-600 py-2">
                 <a href="{{ route('home') }}">
-                <img src="{{ asset('images/logo.png') }}" class="h-8 mx-auto rounded-br-md" alt="" srcset="">
+                <img src="{{ asset('images/logo.png') }}" class="h-8 mx-auto rounded-full" alt="" srcset="">
             </a>
             </nav>
         </div>
